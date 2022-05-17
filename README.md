@@ -10,7 +10,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <p align="center">
-  <a href="https://https://jordan-moldovan.netlify.app/" target="_blank">
+  <a href="https://jordan-moldovan.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=MYWEBSITE&color=6f1abd&style=for-the-badge&&logo=javascript&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jordan-moldovan/" target="_blank">
