@@ -1,8 +1,9 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&duration=3001&color=7F04F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=The+best+Software+Engineer+this+side;of+the+Mississippi%2C+or+the+other+side)](https://git.io/typing-svg)
 
 <h1 align="center">Hello Welcome to the GitHub of Jordan Moldovan</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&duration=3001&color=7F04F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=The+best+Software+Engineer+this+side;of+the+Mississippi%2C+or+the+other+side)](https://git.io/typing-svg)
+
 
 - 🔭 Check back soon for my finished project utilizing JS, HTML/CSS, and Leaflet.
 
