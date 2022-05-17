@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hello Welcome to the GitHub of Jordan Moldovan</h1>
-<h3 align="center">The best Software Engineer this side of the Mississippi, or the other side.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Best+Software+Engineer+this+side+of+the+Mississippi,+or+the+other+side.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **a small web app utilizing JS, HTML/CSS, and Leaflet.**
+- 🔭 Check back soon for my finished project utilizing JS, HTML/CSS, and Leaflet.
 
 - 👯 I’m looking to collaborate on **Open Source projects of all sizes like https://github.com/4paradigm/OpenMLDB**
 
