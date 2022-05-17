@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hello Welcome to the GitHub of Jordan Moldovan</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Best+Software+Engineer+this+side+of+the+Mississippi+or+the+other+side.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 - 🔭 Check back soon for my finished project utilizing JS, HTML/CSS, and Leaflet.
 
