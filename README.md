@@ -1,3 +1,6 @@
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+
+
 <h1 align="center">Hello Welcome to the GitHub of Jordan Moldovan</h1>
 <h3 align="center">The best Software Engineer this side of the Mississippi, or the other side.</h3>
 
