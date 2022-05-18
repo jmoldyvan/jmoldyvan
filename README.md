@@ -45,75 +45,40 @@
       <h3 align="center">oakberry-fruit-bowls.netlify.app</h3>
         <br />
         <a target="_blank" href="(https://oakberry-fruit-bowls.netlify.app)">
-            <img src="OFBgif.gif" width="100%" alt="Travel App"/>
+            <img src="OFBgif.gif" width="100%" alt="OFB Landing  Page"/>
         </a>
         <br />
-<!--         <p align="center"> -->
-          
-<!--   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank"> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-<!--       </p> -->
         <p><strong>All Original HTML/CSS, JavaScript</strong> - A complete landing site template designed for a niche family owned restaurant.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">jordan-moldovan.netlify.app</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://jordan-moldovan.netlify.app">
+            <img src="portfolioGif.gif" width="100%"  alt="MySite"/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Using BootStrap, JavaScript, HTML/CSS, </strong> - My Portfolio Site, built with excellence and flair. Check it out to learn more about me!</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">One of the Many Puzzles; Map-Draw!</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://map-draw-puzzle.netlify.app/">
+          <img src="mapGif.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - One of the puzzles in my ManyPuzzles repo used as a learning tool to have new concpets be easily understood.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">An Early 90's Themed Screensaver!</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="#">
+          <img src="screensaverGif.gif" width="100%" alt="Screensaver"/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>No CSS, Only Javascript!</strong> - Based off of those early windows screensavers! Get your nostalgia satisfied</p>
     </td>
   </tr>
 </table>
