@@ -45,7 +45,7 @@
       <h3 align="center">oakberry-fruit-bowls.netlify.app</h3>
         <br />
         <a target="_blank" href="(https://oakberry-fruit-bowls.netlify.app)">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="OFBgif.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
 <!--         <p align="center"> -->
