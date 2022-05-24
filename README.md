@@ -48,7 +48,7 @@
             <img src="OFBgif.gif" width="100%" alt="OFB Landing  Page"/>
         </a>
         <br />
-        <p><strong>All Original HTML/CSS, JavaScript</strong> - A complete landing site template designed for a niche family owned restaurant.</p>
+        <p><strong><a href=href="(https://oakberry-fruit-bowls.netlify.app)">All Original HTML/CSS, JavaScript </a></strong> - A complete landing site template designed for a niche family owned restaurant.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">jordan-moldovan.netlify.app</h3>
@@ -57,7 +57,7 @@
             <img src="portfolioGif.gif" width="100%"  alt="MySite"/>
         </a>
         <br />
-        <p><strong>Using BootStrap, JavaScript, HTML/CSS, </strong> - My Portfolio Site, built with excellence and flair. Check it out to learn more about me!</p>
+        <p><strong><a href=href="https://jordan-moldovan.netlify.app">Using BootStrap, JavaScript, HTML/CSS </a></strong> - My Portfolio Site, built with excellence and flair. Check it out to learn more about me!</p>
     </td>
   </tr>
   
