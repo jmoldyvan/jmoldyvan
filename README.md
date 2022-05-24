@@ -69,7 +69,7 @@
           <img src="mapGif.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
-        <p><strong>HTML5, CSS3, & Javascript</strong> - One of the puzzles in my ManyPuzzles repo used as a learning tool to have new concpets be easily understood.</p>
+        <p><strong><a href="https://map-draw-puzzle.netlify.app/">HTML5, CSS3, & Javascript</a></strong> - One of the puzzles in my ManyPuzzles repo used as a learning tool to have new concpets be easily understood.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">An Early 90's Themed Screensaver!</h3>
