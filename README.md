@@ -65,7 +65,7 @@
     <td width="50%" valign="top">
       <h3 align="center"<a target="_blank" href="https://map-draw-puzzle.netlify.app/"></a>One of the Many Puzzles; Map-Draw!</h3>
       <br />
-        <a target="_blank" href="https://map-draw-puzzle.netlify.app/">
+        <a href="https://map-draw-puzzle.netlify.app/">
           <img src="mapGif.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
