@@ -63,7 +63,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive Map</a></h3>
+      <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive</a></h3>
       <br />
         <a href="https://interactive-data-eruption-map.netlify.app/">
           <img src="eruptiongif.gif" width="100%" alt="MapDraw"/>
