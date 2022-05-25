@@ -63,13 +63,13 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"<a href="https://map-draw-puzzle.netlify.app/">One of the Many Puzzles; Map-Draw!</a></h3>
+      <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive Map</a></h3>
       <br />
-        <a href="https://map-draw-puzzle.netlify.app/">
-          <img src="mapGif.gif" width="100%" alt="MapDraw"/>
+        <a href="https://interactive-data-eruption-map.netlify.app/">
+          <img src="eruptiongif.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
-        <p><strong><a href="https://map-draw-puzzle.netlify.app/">HTML5, CSS3, & Javascript</a></strong> - One of the puzzles in my ManyPuzzles repo used as a learning tool to have new concpets be easily understood.</p>
+        <p><strong><a href="https://interactive-data-eruption-map.netlify.app/">Utilizing NOAA Database and the Leaflet JS Library</a></strong> - This application was designed in order to visualize a large database onto a global map. As well as provide some visual representation for the scale of these historical eruptions.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">An Early 90's Themed Screensaver!</h3>
