@@ -62,6 +62,15 @@
   </tr>
   
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">An Early 90's Themed Screensaver!</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="screensaverGif.gif" width="100%" alt="Screensaver"/>
+        </a>
+        <br />
+        <p><strong>No CSS, Only Javascript!</strong> - Based off of those early windows screensavers! Get your nostalgia satisfied</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive</a></h3>
       <br />
@@ -70,15 +79,6 @@
         </a>
       <br />
         <p><strong><a href="https://interactive-data-eruption-map.netlify.app/">Utilizing NOAA Database and the Leaflet JS Library</a></strong> - This application was designed in order to visualize a large database onto a global map. As well as provide some visual representation for the scale of these historical eruptions.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">An Early 90's Themed Screensaver!</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="screensaverGif.gif" width="100%" alt="Screensaver"/>
-        </a>
-        <br />
-        <p><strong>No CSS, Only Javascript!</strong> - Based off of those early windows screensavers! Get your nostalgia satisfied</p>
     </td>
   </tr>
 </table>
