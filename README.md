@@ -63,13 +63,13 @@
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">An Early 90's Themed Screensaver!</h3>
+      <h3 align="center">Escape Room Template; Scare-Factor!</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="screensaverGif.gif" width="100%" alt="Screensaver"/>
+          <img src="scare-factor.gif" width="100%" alt="scare-factor"/>
         </a>
         <br />
-        <p><strong><a https://scare-factor.netlify.app/">Newest HTML, CSS, Javascript Template</a></strong> - Great template design with fun animations even including some canvas action. All from scratch, and very scary</p>
+        <p><strong><a href="https://scare-factor.netlify.app/">Newest HTML, CSS, Javascript Template</a></strong> - Great template design with fun animations even including some canvas action. All from scratch, and very scary</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive</a></h3>
