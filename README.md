@@ -69,7 +69,7 @@
           <img src="screensaverGif.gif" width="100%" alt="Screensaver"/>
         </a>
         <br />
-        <p><strong>No CSS, Only Javascript!</strong> - Based off of those early windows screensavers! Get your nostalgia satisfied</p>
+        <p><strong><a https://scare-factor.netlify.app/">Newest HTML, CSS, Javascript Template</a></strong> - Great template design with fun animations even including some canvas action. All from scratch, and very scary</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive</a></h3>
