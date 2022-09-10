@@ -75,7 +75,7 @@
       <h3 align="center"<a href="https://who-dat-pokemon.netlify.app/">Who's That Pokemon! Tile Game</a></h3>
       <br />
         <a href="https://who-dat-pokemon.netlify.app//">
-          <img src="eruptiongif.gif" width="100%" alt="MapDraw"/>
+          <img src="Screenshot (1).png" width="100%" alt="MapDraw"/>
         </a>
       <br />
         <p><strong><a href="https://who-dat-pokemon.netlify.app/">React to this React App</a></strong> - This application takes in the large PokeAPI for images. I use React as the foundation to manipulate state and create a functional tile board game. Similar in concept to Wordle.</p>
