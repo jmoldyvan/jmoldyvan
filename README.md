@@ -72,13 +72,13 @@
         <p><strong><a href="https://scare-factor.netlify.app/">Newest HTML, CSS, Javascript Template</a></strong> - Great template design with fun animations even including some canvas action. All from scratch, and very scary</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"<a href="https://interactive-data-eruption-map.netlify.app/">Significant Volcanic Eruption Interactive</a></h3>
+      <h3 align="center"<a href="https://who-dat-pokemon.netlify.app/">Who's That Pokemon! Tile Game</a></h3>
       <br />
-        <a href="https://interactive-data-eruption-map.netlify.app/">
+        <a href="https://who-dat-pokemon.netlify.app//">
           <img src="eruptiongif.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
-        <p><strong><a href="https://interactive-data-eruption-map.netlify.app/">Utilizing NOAA Database and the Leaflet JS Library</a></strong> - This application was designed in order to visualize a large database onto a global map. As well as provide some visual representation for the scale of these historical eruptions.</p>
+        <p><strong><a href="https://who-dat-pokemon.netlify.app/">React to this React App</a></strong> - This application takes in the large PokeAPI for images. I use React as the foundation to manipulate state and create a functional tile board game. Similar in concept to Wordle.</p>
     </td>
   </tr>
 </table>
