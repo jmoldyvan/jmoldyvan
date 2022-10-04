@@ -51,13 +51,13 @@
         <p><strong><a href="https://oakberry-fruit-bowls.netlify.app">All Original HTML/CSS and JavaScript </a></strong> - A complete landing site template designed for a niche family owned restaurant.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">jordan-moldovan.netlify.app</h3>
+      <h3 align="center"> West Coast Hot Springs/</h3>
         <br />
-      <a target="_blank" href="https://jordan-moldovan.netlify.app">
-            <img src="portfolioGif.gif" width="100%"  alt="MySite"/>
+      <a target="_blank" href="https://westcoasthotsprings.vercel.app/">
+            <img src="westcoast.gif" width="100%"  alt="MySite"/>
         </a>
         <br />
-        <p><strong><a href="https://jordan-moldovan.netlify.app">Using BootStrap, JavaScript, HTML/CSS </a></strong> - My Portfolio Site, built with excellence and flair. Check it out to learn more about me!</p>
+        <p><strong><a href="https://westcoasthotsprings.vercel.app/">React, Node, Express </a></strong> - Full stack Web Application. Made with React, Node, and Express. User Authentication, user profiles, a unique self-made database, interactive leaflet map.</p>
     </td>
   </tr>
   
