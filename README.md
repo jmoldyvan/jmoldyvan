@@ -28,7 +28,7 @@
 
 👯 I’m looking to collaborate on **Open Source projects of all sizes like https://github.com/4paradigm/OpenMLDB**
 
-👨‍💻 Learn  more about me and services I can provide at [https://jordan-moldovan.netlify.app/](https://jordan-moldovan.netlify.app/)
+👨‍💻 Learn  more about me and services I can provide at [https://jordan-moldovan.com/](https://jordan-moldovan.com/)
 
 📫 Reach me at **jmoldyvan@gmail.com**
 
