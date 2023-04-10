@@ -42,6 +42,15 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"<a href="https://who-dat-pokemon.netlify.app/">Who's That Pokemon! Tile Game</a></h3>
+      <br />
+        <a href="https://whomthatpokemon.netlify.app//">
+          <img src="updatewhopoke.gif" width="100%" alt="MapDraw"/>
+        </a>
+      <br />
+        <p><strong><a href="https://whomthatpokemon.netlify.app/">Who's That Pokemon Game!</a></strong> - Fullstack launched app with Firebase authentication, Sass, MERN, and some React MUI. This app tracks your score, has a leaderboard, secure login through Firebase, and great animations.</p>
+    </td>    
+    <td width="50%" valign="top">
 <h3 align="center"> West Coast Hot Springs</h3>
         <br />
       <a target="_blank" href="https://westcoasthotsprings.vercel.app/">
@@ -50,6 +59,9 @@
         <br />
         <p><strong><a href="https://westcoasthotsprings.vercel.app/">React, Node, Express </a></strong> - Full stack Web Application. Made with React, Node, and Express. User Authentication, user profiles, a unique self-made database, interactive leaflet map.</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
           <h3 align="center">oakberry-fruit-bowls.netlify.app</h3>
         <br />
@@ -58,10 +70,7 @@
         </a>
         <br />
         <p><strong><a href="https://oakberry-fruit-bowls.netlify.app">All Original HTML/CSS and JavaScript </a></strong> - A complete landing site template designed for a niche family owned restaurant.</p>
-    </td>
-  </tr>
-  
-  <tr>
+    </td>    
   <td width="50%" valign="top">
       <h3 align="center">Escape Room Template; Scare-Factor!</h3>
         <br />
@@ -71,19 +80,8 @@
         <br />
         <p><strong><a href="https://scare-factor.netlify.app/">Newest HTML, CSS, Javascript Template</a></strong> - Great template design with fun animations even including some canvas action. All from scratch, and very scary</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"<a href="https://who-dat-pokemon.netlify.app/">Who's That Pokemon! Tile Game</a></h3>
-      <br />
-        <a href="https://who-dat-pokemon.netlify.app//">
-          <img src="Screenshot (1).png" width="100%" alt="MapDraw"/>
-        </a>
-      <br />
-        <p><strong><a href="https://who-dat-pokemon.netlify.app/">React to this React App</a></strong> - This application takes in the large PokeAPI for images. I use React as the foundation to manipulate state and create a functional tile board game. Similar in concept to Wordle.</p>
-    </td>
   </tr>
 </table>
-
-
 
 <h2 align="center"><u>My Github Stats</u></h2>
 
