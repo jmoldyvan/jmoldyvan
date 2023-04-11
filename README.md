@@ -45,7 +45,7 @@
       <h3 align="center"<a href="https://who-dat-pokemon.netlify.app/">Who's That Pokemon! Tile Game</a></h3>
       <br />
         <a href="https://whomthatpokemon.netlify.app//">
-          <img src="updatewhopoke.gif" width="100%" alt="MapDraw"/>
+          <img src="whothepokemon3.gif" width="100%" alt="MapDraw"/>
         </a>
       <br />
         <p><strong><a href="https://whomthatpokemon.netlify.app/">Who's That Pokemon Game!</a></strong> - Fullstack launched app with Firebase authentication, Sass, MERN, and some React MUI. This app tracks your score, has a leaderboard, secure login through Firebase, and great animations.</p>
